@@ -6,9 +6,9 @@
 
 1.D
 
-Marin Runje  + + | +
-Mihael Ded   + + | +
-Lucija Grgac + + | -
+Marin Runje  + + | + +
+Mihael Ded   + + | + -
+Lucija Grgac + + | - -
 Sasa Vujisic + - |
 
 
@@ -44,3 +44,5 @@ datumi:
  - ponavljanje i uvod u klase
 8.11.2025.
  - grupa 1. uvod u javu
+22.11.2025.
+ - grupa 1. ponavljanje i SDL Events
