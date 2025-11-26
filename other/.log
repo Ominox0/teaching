@@ -6,21 +6,21 @@
 
 1.D
 
-Marin Runje  + + + | + +
-Mihael Ded   + + + | + -
-Lucija Grgac + + + | - -
-Sasa Vujisic + - + |
+Marin Runje  + + + + + | + +
+Mihael Ded   + + + + + | + -
+Lucija Grgac + + + + + | - -
+Sasa Vujisic + + + - + |
 
 
 1.E
 
-Ivan Bacalja + - - |
+Ivan Bacalja  + + + - - |
 
 2.C
 
-Beki - + - |
-Kriz - + - |
-Juraj + + + |
+Beki - - - + - |
+Kriz - - - + - |
+Juraj - - + + + |
 
 
 grupe:
@@ -38,10 +38,14 @@ grupe:
 
 
 datumi:
+16.10.2025.
+ - pohrana podataka
 24.10.2025.
  - uvod
 30.10.2025.
  - ponavljanje i uvod u klase
+07.11.2025.
+ -ponavljanje
 8.11.2025.
  - grupa 1. uvod u javu
 22.11.2025.
